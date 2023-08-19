@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mohd Farhan
+Skills: Python ,HTML,CSS,Manual Testing and Basic of Automation Testing
+Email: farhan.erayan@gmail.com
+{{/user}}
